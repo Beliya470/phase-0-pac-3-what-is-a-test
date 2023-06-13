@@ -1,5 +1,7 @@
-const name = "Susan";
-const height = 35; // This can be any value less than 40
+const name = "Joe";
+const height = 74;
 const message = `${name} is ${height} inches tall`;
+
+console.log(message);
 
 module.exports = { name, height, message };
